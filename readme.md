@@ -1,5 +1,5 @@
 # BMI Calculaor 
-![BMI image](image/bmi.png)
+![bmi](https://github.com/Nitesh1255/BMI-Calculator/assets/119393883/d7a8d148-2fb3-4da8-8e60-acb271e8a663)
 
 A simple BMI (Body Mass Index) calculator to help you assess your body weight based on your height and weight. This project is built with HTML, CSS, and JavaScript.
 
